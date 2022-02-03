@@ -1,4 +1,4 @@
-# friuts_awesome_scroll
+# fruits_awesome_scroll
 
 A new Flutter project.
 
